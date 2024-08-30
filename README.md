@@ -5,7 +5,7 @@
 This font contains symbols for rendering Git branches.
 It is provided for font patching purposes.
 
-The range of symbols is `U+F5D0` through `U+F5FB`.
+The range of symbols is `U+F5D0` through `U+F60D`.
 
 These symbols can be used with [vim-flog](https://github.com/rbong/vim-flog).
 
@@ -57,3 +57,21 @@ These symbols can be used with [vim-flog](https://github.com/rbong/vim-flog).
 | `U+F5F9` | ![U+F5F9](img/uf5f9.png) |     |
 | `U+F5FA` | ![U+F5FA](img/uf5fa.png) |     |
 | `U+F5FB` | ![U+F5FB](img/uf5fb.png) |     |
+| `U+F5FC` | ![U+F5FC](img/uf5fc.png) |     |
+| `U+F5FD` | ![U+F5FD](img/uf5fd.png) |     |
+| `U+F5FE` | ![U+F5FE](img/uf5fe.png) |     |
+| `U+F5FF` | ![U+F5FF](img/uf5ff.png) |     |
+| `U+F600` | ![U+F600](img/uf600.png) |     |
+| `U+F601` | ![U+F601](img/uf601.png) |     |
+| `U+F602` | ![U+F602](img/uf602.png) |     |
+| `U+F603` | ![U+F603](img/uf603.png) |     |
+| `U+F604` | ![U+F604](img/uf604.png) |     |
+| `U+F605` | ![U+F605](img/uf605.png) |     |
+| `U+F606` | ![U+F606](img/uf606.png) |     |
+| `U+F607` | ![U+F607](img/uf607.png) |     |
+| `U+F608` | ![U+F608](img/uf608.png) |     |
+| `U+F609` | ![U+F609](img/uf609.png) |     |
+| `U+F60A` | ![U+F60A](img/uf60a.png) |     |
+| `U+F60B` | ![U+F60B](img/uf60b.png) |     |
+| `U+F60C` | ![U+F60C](img/uf60c.png) |     |
+| `U+F60D` | ![U+F60D](img/uf60d.png) |     |
